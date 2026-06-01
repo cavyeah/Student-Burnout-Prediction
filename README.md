@@ -1,6 +1,6 @@
 ## Student Burnout Prediction
 
-A custom
+
 A custom machine learning pipeline for predicting student burnout risk from tabular survey and behavioral data.
 
 ## Project Goals
